@@ -1,0 +1,8 @@
+{
+    "name": "codeinaction-mongo-and-node-pagination",
+    "description": "code in action mongo and nodejs pagination tests!",
+    "version": "0.0.01",
+    "dependencies": {
+        "mongodb": ""
+    }
+}
